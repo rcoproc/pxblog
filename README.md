@@ -1,5 +1,7 @@
 # Pxblog
 
+https://hackernoon.com/introduction-fe138ac6079d
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
