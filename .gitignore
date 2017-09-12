@@ -16,7 +16,13 @@ erl_crash.dump
 /priv/static/
 
 
-/*.swp
+# vim artifacts
+*~
+**.swp
+*.swn
+**.swo
+*.swo
+*.swp
 
 # The config/prod.secret.exs file by default contains sensitive
 # data and you should not commit it into version control.
