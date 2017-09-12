@@ -1,6 +1,7 @@
 # Pxblog
 
-https://hackernoon.com/introduction-fe138ac6079d
+Part 1 - https://hackernoon.com/introduction-fe138ac6079d
+Part 2 - https://hackernoon.com/writing-a-blog-engine-in-phoenix-part-2-authorization-814c06fa7c0
 
 To start your Phoenix app:
 
